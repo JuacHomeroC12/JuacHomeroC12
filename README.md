@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Juan David Romero Calderón 👋
 
-<!--
-**JuacHomeroC12/JuacHomeroC12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aprendiz ADSO | SENA (Ficha 3239188)
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! Actualmente me encuentro en mi proceso de formación tecnológica en **Análisis y Desarrollo de Software (ADSO)** en el SENA. Me apasiona el desarrollo, la resolución de problemas estructurados y la creación de soluciones tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas en Proceso
+* **Control de Versiones:** Git, GitHub
+* **Bases de Datos:** MySQL, Docker 
+* **Lenguajes y Modelado:** Java, MySQL
+
+---
+
+## 📌 Sobre mí & Mis Objetivos
+- 💡 **Enfoque:** Construcción de software estructurado, bien documentado y limpio.
+- 🎯 **Metas:** Consolidar el proyecto formativo del tecnólogo.
+- ⚽ **Hobbies:** Deporte, música y demás.
+
+---
+
+## 📬 Redes y Contacto
+
+* **Ubicación:** Neiva, Huila, Colombia
+* **Correo electrónico:** Juanchoromerocalderon2022@gmail.com
+* **Teléfono:** 3122896600
+
+---
