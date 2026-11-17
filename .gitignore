@@ -1,0 +1,35 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+target/
+build/
+out/
+bin/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Docker
+docker-compose.override.yml
+
+# Claude Code local settings
+.claude/settings.local.json
